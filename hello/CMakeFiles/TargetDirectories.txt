@@ -1,0 +1,3 @@
+/home/eugene/Projects/ChernoCpp/hello/CMakeFiles/rebuild_cache.dir
+/home/eugene/Projects/ChernoCpp/hello/CMakeFiles/hello.dir
+/home/eugene/Projects/ChernoCpp/hello/CMakeFiles/edit_cache.dir
